@@ -1,0 +1,6 @@
+.camp_ctbrs_wrapper h3{padding:10px;border-bottom:1px solid  rgba(0,0,0,0.2);}
+ul.camp_ctbrs{list-style:none;}
+ul.camp_ctbrs li{width:120px;display:inline-block;margin:15px;text-align:center;}
+ul.camp_ctbrs li a{text-decoration:none;box-shadow:none;}
+ul.camp_ctbrs li a span{text-align:center;}
+.camp_ctbrs_wrapper {padding:15px;border:1px solid rgba(0,0,0,0.2)}
